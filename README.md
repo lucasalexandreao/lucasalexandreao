@@ -1,7 +1,7 @@
 # Olá! 👋
 
 ## 👱‍♂️ Quem sou eu?
-Eu sou Lucas Alexandre. Sou estudante de Ciência da Computação na UFERSA. Tive experiência com PHP no desenvolvimento web, e Swift no desenvolvimento mobile. A linguagem com a qual mais tenho familiaridade é Pyhton, e atualmente estou estudando ciência de dados.
+Eu sou Lucas Alexandre. Sou estudante de Ciência da Computação na UFERSA. Estudo Desenvolvimento Web com Ruby on Rails e Programação Competitiva com Python e, especialmente, C++.
 
 ## 📊 Minhas estatísticas
 <img src="https://github-readme-stats.vercel.app/api?username=lucasalexandreao&show_icons=true&theme=tokyonight" height="180em"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalexandreao&theme=tokyonight&layout=compact" height="180em"/>
